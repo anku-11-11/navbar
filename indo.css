@@ -1,0 +1,83 @@
+body {
+  background-color: lightblue;
+}
+
+.stu
+{
+	    color: black;
+		font-size:20px; 
+
+}
+.less{
+		color: black;
+		font-size:20px; 
+}
+.set{
+		color: black;
+		font-size:20px; 
+
+
+}
+.stu:hover{
+ background-color: white;
+}
+.less:hover{
+ background-color: white;
+}
+.set:hover{
+ background-color: white;
+}
+
+.nav{
+  height: 100%; 
+  width: 140px; 
+  position: fixed; 
+  z-index: 1; 
+  top: 0; 
+  left: 0;
+  background-color: gray;
+  padding-top: 20px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+
+}
+/*logo
+*/
+.logo1{
+	font-size:40px; 
+	color: black;
+	padding-left: 22px;
+
+}
+.logo2{
+    font-size:40px; 
+	color: black;
+	padding-left: 21px;
+}
+.logo3{
+	font-size:40px; 
+	color: black;
+	padding-left: 21px;
+}
+.student
+{
+	font-size:40px; 
+	color: black;
+	padding-left: 28px;
+}
+
+.url{
+	padding-left: 140px;
+	padding-top: 120px;
+	size: 30;
+}
+
+.imagecard{
+border: 1px solid black;
+width: 150px;
+height: 160px;
+padding-left: 140px;
+position: relative;
+}
+.imagecard:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
